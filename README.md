@@ -23,3 +23,57 @@ Rough breakdown of tasks:
 2. Tiffany will work final report
 3. Hannah will do 4 visuals will work out who will do the other 4.
 4. 
+
+List of States assigned to each person: 
+Hannah :
+ID
+NE
+MD
+PA
+WV
+MS
+AL
+LA
+TX
+
+Tiffany:
+FL
+NM
+IN
+NJ
+ME
+WI
+OK
+AK
+GA
+
+Damla:
+UT
+AZ
+NH
+KY
+ND
+MN
+NC
+NY
+WA
+
+John:
+OR
+KS
+MR
+IL
+TN
+NE
+SC
+SD
+
+Patrick:
+CA
+CO
+MD
+MO
+MI
+VA
+AR
+WY
