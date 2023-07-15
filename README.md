@@ -25,6 +25,7 @@ Rough breakdown of tasks:
 4.
 
 List of States Assigned to each Person:
+
 Hannah :
 ID
 NE
