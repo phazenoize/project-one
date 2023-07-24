@@ -22,9 +22,16 @@ Rough breakdown of tasks:
 1. All will need to breakdown 10 states each to clean (using jupyter).
 2. Tiffany will work final report
 3. Hannah will do 4 visuals will work out who will do the other 4.
+<<<<<<< HEAD
 4. 
 
 List of States assigned to each person: 
+=======
+4.
+
+List of States Assigned to each Person:
+
+>>>>>>> origin
 Hannah :
 ID
 NE
